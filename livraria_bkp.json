@@ -1,0 +1,67 @@
+[
+{
+  "model": "core.autor",
+  "pk": 1,
+  "fields": {
+    "nome": "yasmim",
+    "email": "yasmim@gmail.com"
+  }
+},
+{
+  "model": "core.categoria",
+  "pk": 1,
+  "fields": {
+    "descricao": "Suspense"
+  }
+},
+{
+  "model": "core.editora",
+  "pk": 1,
+  "fields": {
+    "nome": "Galera",
+    "site": "https://galera.com.br"
+  }
+},
+{
+  "model": "core.usuario",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$320000$C5uCpi7oCzOaNfYPqabfAc$1+mdauHQ53Sp90CIuLtkehbgIno6+chDckkAJEIHv28=",
+    "last_login": "2022-10-10T17:17:17.687Z",
+    "is_superuser": true,
+    "username": "yasmim",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2022-09-26T17:49:58Z",
+    "cpf": "10040577929",
+    "telefone": null,
+    "data_nascimento": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.usuario",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$320000$7rTQGhB3J7r8qOtCx47XIr$JZ5zKHWuPMF0G6J3UXNtbtxMXlnsoV3w1quHsRHqaIo=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "yasmim123",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-09-26T18:00:26.198Z",
+    "cpf": "",
+    "telefone": null,
+    "data_nascimento": null,
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
