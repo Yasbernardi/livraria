@@ -19,6 +19,7 @@ drf-spectacular = "^0.24.2"
 isort = "^5.10.1"
 django-environ = "^0.9.0"
 libmagic = "^1.0"
+mysqlclient = "^2.1.1"
 
 [tool.poetry.dev-dependencies]
 
